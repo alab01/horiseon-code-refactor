@@ -32,11 +32,8 @@ nav {
     font-size: 20px;
 }
 
-.header ul {
-    list-style-type: none;
-}
-
 .header ul li {
+    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
