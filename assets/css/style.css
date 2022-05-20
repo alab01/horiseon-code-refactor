@@ -85,6 +85,7 @@ p {
     background-color: #2589bd;
 }
 
+/* Combined all classes under parent: benefits */
 .benefit-right
 {
     margin-bottom: 32px;
@@ -104,6 +105,7 @@ p {
     max-width: 150px;
 }
 
+/* Combined all classes to main-sections under parent content  */
 .main-sections
  {
     margin-bottom: 20px;
