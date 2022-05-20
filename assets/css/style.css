@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Changed from div to nav */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,6 +33,7 @@ nav {
     font-size: 20px;
 }
 
+/* Merged the list sections */
 .header ul li {
     list-style-type: none;
     display: inline-block;
@@ -83,25 +85,19 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead,
-.benefit-brand,
-.benefit-cost
+.benefit-right
 {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3
+.benefit-right h3
 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img
+.benefit-right img
 {
     display: block;
     margin: 10px auto;
