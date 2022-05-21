@@ -20,6 +20,7 @@ body {
     font-size: 48px;
 }
 
+/* Consolidated by deleted unecessary classes */
 .seo {
     color: #d9dcd6;
 }
@@ -74,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/* Added styles to parent benefit that shouldve been included here*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
